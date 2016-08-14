@@ -9,9 +9,9 @@
   <title>Daniel LEUNG</title>
   <meta name="description" content="A young CS student working his way as a software engineer">
 
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://daniel2005315.github.io/feed.xml">
-  <link rel="alternate" type="application/rss+xml" title="Daniel LEUNG" href="https://daniel2005315.github.io/feed.xml">
+  <link rel="stylesheet" href="/site/css/main.css">
+  <link rel="canonical" href="https://daniel2005315.github.io/site/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="Daniel LEUNG" href="https://daniel2005315.github.io/site/feed.xml">
 </head>
 
 
@@ -22,7 +22,7 @@
 
 <div class="wrapper">
 
-    <a class="site-title" href="/">Daniel LEUNG</a>
+    <a class="site-title" href="/site/">Daniel LEUNG</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -36,7 +36,7 @@
       <div class="trigger">
         
           
-          <a class="page-link" href="/about/">About</a>
+          <a class="page-link" href="/site/about/">About</a>
           
         
           
@@ -46,7 +46,7 @@
           
         
           
-          <a class="page-link" href="/myworks/">My Works</a>
+          <a class="page-link" href="/site/myworks/">My Works</a>
           
         
       </div>
@@ -64,21 +64,21 @@
     <title>Daniel LEUNG</title>
     <description>A young CS student working his way as a software engineer
 </description>
-    <link>https://daniel2005315.github.io/</link>
-    <atom:link href="https://daniel2005315.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Aug 2016 16:04:07 +0800</pubDate>
-    <lastBuildDate>Sun, 14 Aug 2016 16:04:07 +0800</lastBuildDate>
+    <link>https://daniel2005315.github.io/site/</link>
+    <atom:link href="https://daniel2005315.github.io/site/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 Aug 2016 16:23:28 +0800</pubDate>
+    <lastBuildDate>Sun, 14 Aug 2016 16:23:28 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>It is UP!</title>
         <description>&lt;p&gt;Hello World!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://github.com/daniel2005315/site/raw/gh-pages/assets/view.JPG&quot; alt=&quot;Testing Picture&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/daniel2005315/site/raw/gh-pages/assets/view-2.JPG&quot; alt=&quot;Testing Picture&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Aug 2016 16:18:10 +0800</pubDate>
-        <link>https://daniel2005315.github.io/jekyll/update/2016/08/11/personal-page-online.html</link>
-        <guid isPermaLink="true">https://daniel2005315.github.io/jekyll/update/2016/08/11/personal-page-online.html</guid>
+        <link>https://daniel2005315.github.io/site/jekyll/update/2016/08/11/personal-page-online.html</link>
+        <guid isPermaLink="true">https://daniel2005315.github.io/site/jekyll/update/2016/08/11/personal-page-online.html</guid>
         
         
         <category>jekyll</category>
@@ -105,8 +105,8 @@
 
 </description>
         <pubDate>Tue, 09 Aug 2016 23:18:10 +0800</pubDate>
-        <link>https://daniel2005315.github.io/jekyll/update/2016/08/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://daniel2005315.github.io/jekyll/update/2016/08/09/welcome-to-jekyll.html</guid>
+        <link>https://daniel2005315.github.io/site/jekyll/update/2016/08/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://daniel2005315.github.io/site/jekyll/update/2016/08/09/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
