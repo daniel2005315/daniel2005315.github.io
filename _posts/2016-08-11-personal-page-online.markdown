@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 Hello World!
 
-![Testing Picture]({{ site.url }}/assets/view.jpg)
+![Testing Picture]({{ site.url }}/assets/view.JPG)
