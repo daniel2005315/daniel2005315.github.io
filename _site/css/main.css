@@ -326,7 +326,8 @@ pre {
       font-size: 36px; } }
 
 .post-content {
-  padding-bottom: 100px; }
+  padding-bottom: 100px;
+  justify-content: space-between;}
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {
