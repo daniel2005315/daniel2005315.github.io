@@ -20,7 +20,7 @@ email: daniel2005315@gmail.com
 #Google search results) and in your feed.xml site description.
 description: > # this means to ignore newlines until "baseurl:"
  A young CS student working his way as a software engineer
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "https://daniel2005315.github.io" # the base hostname & protocol for your site
 imgurl: "https://github.com/daniel2005315/site/raw/gh-pages"
 twitter_username: ""
