@@ -292,7 +292,9 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 40px 40px 100px 40px; }
+  padding: 40px 40px 100px 40px;
+  text-align:justify;
+  text-justify:inter-word;}
 
 .page-heading {
   font-size: 20px; }
@@ -326,7 +328,9 @@ pre {
       font-size: 36px; } }
 
 .post-content {
-  padding-bottom: 100px; }
+  padding-bottom: 100px;
+  text-align:justify;
+  text-justify:inter-word;}
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {

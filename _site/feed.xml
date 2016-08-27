@@ -9,20 +9,19 @@
   <title>Daniel LEUNG</title>
   <meta name="description" content="A young CS student working his way as a software engineer">
 
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://daniel2005315.github.io/feed.xml">
-  <link rel="alternate" type="application/rss+xml" title="Daniel LEUNG" href="https://daniel2005315.github.io/feed.xml">
+  <link rel="stylesheet" href="/site/css/main.css">
+  <link rel="canonical" href="https://daniel2005315.github.io/site/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="Daniel LEUNG" href="https://daniel2005315.github.io/site/feed.xml">
 </head>
 
 
   <body>
 
-
         <header class="site-header" role="banner">
 
 <div class="wrapper">
 
-    <a class="site-title" href="/">Daniel LEUNG</a>
+    <a class="site-title" href="/site/">Daniel LEUNG</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -36,7 +35,7 @@
       <div class="trigger">
         
           
-          <a class="page-link" href="/about/">About</a>
+          <a class="page-link" href="/site/about/">About</a>
           
         
           
@@ -46,7 +45,7 @@
           
         
           
-          <a class="page-link" href="/myworks/">My Works</a>
+          <a class="page-link" href="/site/myworks/">My Works</a>
           
         
       </div>
@@ -64,52 +63,28 @@
     <title>Daniel LEUNG</title>
     <description>A young CS student working his way as a software engineer
 </description>
-    <link>https://daniel2005315.github.io/</link>
-    <atom:link href="https://daniel2005315.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Aug 2016 15:57:16 +0800</pubDate>
-    <lastBuildDate>Sun, 14 Aug 2016 15:57:16 +0800</lastBuildDate>
+    <link>https://daniel2005315.github.io/site/</link>
+    <atom:link href="https://daniel2005315.github.io/site/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Aug 2016 15:25:00 +0800</pubDate>
+    <lastBuildDate>Sat, 27 Aug 2016 15:25:00 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>It is UP!</title>
         <description>&lt;p&gt;Hello World!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://github.com/daniel2005315/site/raw/gh-pages/assets/view.JPG&quot; alt=&quot;Testing Picture&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/daniel2005315/site/gh-pages/img/view-2.jpg&quot; alt=&quot;Testing Picture&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That is a picture I took from mount Tai Shan in China last winter, it was an amazing sun rise!&lt;/p&gt;
+
+&lt;p&gt;And…YES! My personal webpage is now online, in which I will post my works, recent ideas, CV and my contact here from now on, and update regularly. Feel free to check it out from time to time.&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Aug 2016 16:18:10 +0800</pubDate>
-        <link>https://daniel2005315.github.io/jekyll/update/2016/08/11/personal-page-online.html</link>
-        <guid isPermaLink="true">https://daniel2005315.github.io/jekyll/update/2016/08/11/personal-page-online.html</guid>
+        <link>https://daniel2005315.github.io/site/personal/update/2016/08/11/personal-page-online.html</link>
+        <guid isPermaLink="true">https://daniel2005315.github.io/site/personal/update/2016/08/11/personal-page-online.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 09 Aug 2016 23:18:10 +0800</pubDate>
-        <link>https://daniel2005315.github.io/jekyll/update/2016/08/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://daniel2005315.github.io/jekyll/update/2016/08/09/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
+        <category>personal</category>
         
         <category>update</category>
         
@@ -177,6 +152,11 @@
 </div>
 
 </footer>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script src="/site/js/main.js"></script>
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js"></script>
 
   </body>
 
