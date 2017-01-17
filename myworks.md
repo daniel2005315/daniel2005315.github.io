@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: myworks
 title: My Works
 permalink: /myworks/
 ---
 
-There is nothing here for you to see yet...
-
-Coming up!
+Below are some of my works, you may email me if you want me to provide the codes for educational purpose.

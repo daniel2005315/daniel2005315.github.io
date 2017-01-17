@@ -10,4 +10,8 @@ Finally, it is the end of the semester and I have some time to update this site.
 <iframe src="//giphy.com/embed/xUySTUZ8A2RJBQitEc?html5=true"  frameBorder="0" class="giphy-embed" allowFullScreen><p>Your browser does not support iframes.</p></iframe><p></p>
 </div>
 
-Testing out!
+
+New project works have been updated in [My Works][mywork], check it out!
+
+
+[mywork]: {{site.url}}/myworks/

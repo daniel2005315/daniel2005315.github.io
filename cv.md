@@ -4,6 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
+For mobile users, the download should have started, if not:
+
 Download the pdf [HERE](https://github.com/daniel2005315/site/raw/master/assets/pdf/Resume_LEUNG_Chun_Kit_Daniel.pdf)
 
 For any inquiries and further contact information, please email to daniel2005315@gmail.com

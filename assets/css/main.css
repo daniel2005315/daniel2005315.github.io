@@ -359,6 +359,10 @@ pre {
   padding: 0px 0px 54.1667% 0px; /* padding-bottom = h/w as a % */
 }
 
+.iframe-container-for-wxh-560x315 {
+  padding: 0px 0px 56.25% 0px; /* padding-bottom = h/w as a % */
+}
+
 .iframe-container-for-wxh-718x700 {
   padding: 0px 0px 97.493% 0px; /* padding-bottom = h/w as a % */
 }
@@ -371,13 +375,113 @@ pre {
   padding: 0;
   width: 100%;
   height: 100%;
-  border: 0px inset #7a8b8b;
-/* put following styles (necessary for overflow and
+  border: 0px
+/** put following styles (necessary for overflow and
 scrolling handling) in div container around iframe
 because not stable in CSS
 -webkit-overflow-scrolling: touch;
-overflow: auto; */
+overflow: auto; **/
 }
+
+/* My work section */
+/* Accordion Style */
+
+/* Style the buttons that are used to open and close the accordion panel */
+button.accordion {
+    background-color: #2d5886;
+    color: #FFF;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+
+}
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+button.accordion.active, button.accordion:hover {
+    background-color: #ddd;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+div.panel {
+    padding: 0px 25px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor:pointer;
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
 /**
  * Syntax highlighting styles
  */
