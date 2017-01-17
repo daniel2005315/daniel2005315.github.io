@@ -14,4 +14,4 @@ Finally, it is the end of the semester and I have some time to update this site.
 New project works have been updated in [My Works][mywork], check it out!
 
 
-[mywork]: {{site.url}}/myworks/
+[mywork]: {{site.url}}/site/myworks/
