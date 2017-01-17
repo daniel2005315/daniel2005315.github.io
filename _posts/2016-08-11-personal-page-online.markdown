@@ -10,4 +10,4 @@ Hello World!
 
 That is a picture I took from mount Tai Shan in China last winter, it was an amazing sun rise!
 
-And...YES! My personal webpage is now online, in which I will post my works, recent ideas, CV and my contact here from now on, and update regularly. Feel free to check it out from time to time.
+And...YES! My personal webpage is now online, in which I will post my works, recent ideas, CV and my contact here from now on. Hopefully with regular update. Feel free to check it out from time to time.

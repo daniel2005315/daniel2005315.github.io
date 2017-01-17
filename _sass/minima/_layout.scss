@@ -201,7 +201,7 @@
 
 .page-heading {
     font-size: 20px;
-
+    @extend %animation_entry;
 }
 
 .post-list {
