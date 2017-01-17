@@ -69,16 +69,17 @@
 </description>
     <link>https://daniel2005315.github.io/site/</link>
     <atom:link href="https://daniel2005315.github.io/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Jan 2017 15:30:23 +0800</pubDate>
-    <lastBuildDate>Tue, 17 Jan 2017 15:30:23 +0800</lastBuildDate>
+    <pubDate>Tue, 17 Jan 2017 19:50:03 +0800</pubDate>
+    <lastBuildDate>Tue, 17 Jan 2017 19:50:03 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>There goes another semester...</title>
         <description>&lt;p&gt;Finally, it is the end of the semester and I have some time to update this site.&lt;/p&gt;
 
-&lt;iframe src=&quot;//giphy.com/embed/xUySTUZ8A2RJBQitEc?html5=true&quot; width=&quot;480&quot; height=&quot;260&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div class=&quot;iframe-container iframe-container-for-wxh-480x260&quot; style=&quot;-webkit-overflow-scrolling: touch; overflow: auto;&quot;&gt;
+&lt;iframe src=&quot;//giphy.com/embed/xUySTUZ8A2RJBQitEc?html5=true&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;p&gt;Your browser does not support iframes.&lt;/p&gt;&lt;/iframe&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Testing out!&lt;/p&gt;
 </description>
