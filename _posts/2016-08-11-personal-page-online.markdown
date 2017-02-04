@@ -6,7 +6,7 @@ categories: personal update
 ---
 Hello World!
 
-![Testing Picture]({{ site.imgurl }}/img/view-2.jpg)
+![Testing Picture]({{ site.imgurl }}/assets/img/view-2.jpg)
 
 That is a picture I took from mount Tai Shan in China last winter, it was an amazing sun rise!
 
