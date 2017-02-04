@@ -388,7 +388,7 @@ overflow: auto; **/
 
 /* Style the buttons that are used to open and close the accordion panel */
 button.accordion {
-    background-color: #2d5886;
+    background-color: #000d1a;
     color: #FFF;
     cursor: pointer;
     padding: 18px;
