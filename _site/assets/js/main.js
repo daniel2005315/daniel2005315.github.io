@@ -1,3 +1,17 @@
+//Change background img for the about page
+$(document).ready(function(){
+var sitelink = document.URL;
+var x=document.getElementsByClassName('page-content');
+if(sitelink=="https://daniel2005315.github.io/site/about/"){
+  console.log(sitelink);
+  x[0].style.backgroundImage = "url('https://daniel2005315.github.io/site/assets/img/selfie_3.png')";
+  x[0].style.backgroundPosition="right top";
+  x[0].style.backgroundRepeat = "no-repeat"
+  x[0].style.backgroundSize="300px 400px";
+}
+});
+
+
 //Slide down bars
 
 $(document).ready(function(){

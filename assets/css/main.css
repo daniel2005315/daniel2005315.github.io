@@ -8,7 +8,8 @@ body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  }
 
 /**
  * Basic styling
@@ -294,7 +295,9 @@ pre {
 .page-content {
   padding: 40px 40px 100px 40px;
   text-align:justify;
-  text-justify:inter-word;}
+  text-justify:inter-word;
+
+}
 
 .page-heading {
   font-size: 20px; }
